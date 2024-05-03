@@ -4,7 +4,7 @@
  
 replicaCount: 2
 image:
-  repository: docker.io/marianferenc/argo-demo-app
+  repository: docker.io/martinhrusovsky/argo-demo-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "31b7362"
